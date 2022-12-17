@@ -1,5 +1,5 @@
 ---
-title: "✈️ President Public Locations"
+title: "✈️ President Travels"
 date: 2022-12-17
 enableToc: false
 ---

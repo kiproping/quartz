@@ -22,7 +22,7 @@ List of notable personalities and some public data that is notable
 Below are links to the public data collected on the William Ruto Government. 
 
 1. [Major Government Actions](notes/Activities)
-2. [Permanent Secretaries](notes/Prinicipal-Secretaries.md)
+2. [Permanent Secretaries](notes/Shortlisted-Prinicipal-Secretaries.md)
 
 ---
 
