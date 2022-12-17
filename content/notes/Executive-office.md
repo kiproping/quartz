@@ -27,6 +27,22 @@ The following individuals were appointed to the Executive Office of the Presiden
 
 ---
 
+#### 17th October 2022
+As set out in the Executive Order No. 1 of 2022 on the Organization of Government of Kenya, the Executive Office of the President comprises of the Office of the President, the Office of the Deputy President, and the Office of the Prime Cabinet Secretary.
+
+| Apointee                     | Designation                                                    |
+| ---------------------------- | -------------------------------------------------------------- |
+| Mr. Reuben Maiyo             | Private Secretary to the President                             |
+| Mr. George Ng'ong'a Macgoye  | Chief of Staff to the Deputy President                         |
+| Mr. Paul Muraya Mwangi Guare | Private Secretary to the Deputy President                      |
+| Mr. Emmanuel Talam           | Press Secretary, Presidential Communication Service            |
+| Ms. Nieri Rugane             | Head of Communication Services, Office of the Deputy President |
+
+> Appointmend made by Felix K. Koskei Chief of Staff & Head of Public Service
+> [Twitter](https://twitter.com/OliverMathenge/status/1582034645935591428)
+
+---
+
 #### 2nd November 2022
 
 The following were appointed to the President's Council of Economic Advisors
@@ -36,4 +52,5 @@ The following were appointed to the President's Council of Economic Advisors
 | Mr. Adan Mohamed, EGH | Member      |
 | Prof. Vincent N. Machuki  | Member        |
 
+---
 
