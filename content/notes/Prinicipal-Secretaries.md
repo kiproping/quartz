@@ -1,13 +1,13 @@
 ---
-title: 🇰🇪 Permanent secretaries
+title: 🇰🇪 Principal secretaries
 enableToc: false
 ---
-Partial List of permanent secretaries derived from [publicservice.go.ke](https://www.publicservice.go.ke/index.php/media-center/2/200-shortlisted-candidates-for-the-position-of-principal-secretary-in-the-public-service)
+Partial List of shortlisted principal secretaries derived from [publicservice.go.ke](https://www.publicservice.go.ke/index.php/media-center/2/200-shortlisted-candidates-for-the-position-of-principal-secretary-in-the-public-service)
 
 | No. | Names                        | Gender | County          |
 | --- | ---------------------------- | ------ | --------------- |
-| 1.  | Abas Kunyo Guyo              | M      | Tana River      |
-| 2.  | Abdi Dubat Fidhow [PWD]      | M      | Garissa         |
+| 1.  | [[Abas Kunyo Guyo]]              | M      | [[Tana River]]      |
+| 2.  | [[Abdi Dubat Fidhow]] [PWD]      | M      | [[Garissa]]         |
 | 3.  | Abdikadir Mohamed Abdi       | M      | Mandera         |
 | 4.  | Abdikadir Mohamed Mohamud    | M      | Wajir           |
 | 5.  | Abdikarim Daudi Aden         | M      | Wajir           |
