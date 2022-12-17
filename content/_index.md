@@ -1,78 +1,77 @@
 ---
-title: 🪴 Quartz 3.
+title: 🇰🇪 Ruto Government Tracker
 enableToc: false
 ---
+This is a page where we are trying to document significant activities of the Ruto Government. 
 
+[[Permanent secretaries]]
 
-| No. | Names                        | Gender | County          |
-| --- | ---------------------------- | ------ | --------------- |
-| 1.  | Abas Kunyo Guyo              | M      | Tana River      |
-| 2.  | Abdi Dubat Fidhow [PWD]      | M      | Garissa         |
-| 3.  | Abdikadir Mohamed Abdi       | M      | Mandera         |
-| 4.  | Abdikadir Mohamed Mohamud    | M      | Wajir           |
-| 5.  | Abdikarim Daudi Aden         | M      | Wajir           |
-| 6.  | Abdirashi Abdullahi Hussein  | M      | Garissa         |
-| 7.  | Abdirashid Mohamed Jabane    | M      | Isiolo          |
-| 8.  | Abdul Hakim Aboud Bwana      | M      | Lamu            |
-| 9.  | Abdul Rashid S. Mohamed      | M      | Garissa         |
-| 10. | Abel Kipchirchir Rotich      | M      | Uasin Gishu     |
-| 11. | Abraham K. Sing'oei          | M      | Trans Nzoia     |
-| 12. | Abubakar Hassan Abubakar     | M      | Lamu            |
-| 13. | Abukar M. Abdirahman         | M      | Wajir           |
-| 14. | Aggrey Busena Mudembei       | M      | Kakamega        |
-| 15. | Aggrey Wambaya Kitui         | M      | Bungoma         |
-| 16. | Agnes Chepkorir Yobterik     | F      | Kericho         |
-| 17. | Agnetta Mumo Nyalita (PWD)   | F      | Makueni         |
-| 18. | Ahmed Ibrahim Mohamed        | M      | Wajir           |
-| 19. | Ahmed Kolosh Mohamed         | M      | Wajir           |
-| 20. | Ahmed Mohamed Farah          | M      | Mombasa         |
-| 21. | Albert Kimani Mwenda         | M      | Mombasa         |
-| 22. | Alex kamau Wachira           | M      | Nyeri           |
-| 23. | Alex Mureti Muriuki          | M      | Meru            |
-| 24. | Alexander Thuranira Kaugiria | M      | Meru            |
-| 25. | Alfred Akunga Nyangweso      | M      | Kisii           |
-| 26. | Alfred Kegode Mudavadi Diru  | M      | Vihiga          |
-| 27. | Alfred Kipkorir Cheruiyot    | M      | Kericho         |
-| 28. | Alfred Kipsoi Limo           | M      | Nyeri           |
-| 29. | Alfred Ombudo K'Ombudo       | M      | Kisumu          |
-| 30. | Ali Hirsi Ahmed              | M      | Garissa         |
-| 31. | Ali Menza Mbogo              | M      | Mombasa         |
-| 32. | Ali Noor Ismail              | M      | Mandera         |
-| 33. | Alice Jael Akinyi O. Yalla   | F      | Siaya           |
-| 34. | Alice Kivinya Kithika Mathew | F      | Machakos        |
-| 35. | Alutalala Moses Mukhwana     | M      | Kakamega        |
-| 36. | Amani Yuda John Komora       | M      | Taita Taveta    |
-| 37. | Amos Kennedy N. Gathecha     | M      | Kiambu          |
-| 38. | Amos Kiangwe Sikweya Otieno  | M      | Homa Bay        |
-| 39. | Andrew Kiprotich Tuimur      | M      | Nandi           |
-| 40. | Andrew Mutava Mulwa          | M      | Makueni         |
-| 41. | Andrew Mutuma Nthuku         | M      | Nairobi         |
-| 42. | Andrew Tanui Kipkoech        | M      | Elgeyo Marakwet |
-| 43. | Angela Mulwa                 | F      | Nairobi         |
+Spreadsheet on Ruto’s promises. [Link](https://docs.google.com/spreadsheets/d/12_sOeITaMcrbdH-21Lj29582soUnai1oW6fJ2nZziaQ/edit#gid=0)
 
+September 13, 2022 
 
+✅  President William Ruto sworn in. 
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+September 18, 2022 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+✈️ Departing for UK & USA - Queen Funeral & UNGA. [Twitter](https://twitter.com/HusseinMohamedg/status/1571459828542836737) |  [Archive](https://archive.ph/Hud9p)  
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+October 6, 2022 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+❓ Shortlisted candidates for Principal secretary positions. [Twitter](https://twitter.com/OliverMathenge/status/1578092841284296704/)  |  [Archive](https://archive.ph/zcOxU). |  [PSC](https://www.publicservice.go.ke/index.php/media-center/2/200-shortlisted-candidates-for-the-position-of-principal-secretary-in-the-public-service)  | Saved to Disk
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+October 14, 2022 
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+🤝 Appointments to the executive office [Twitter](https://twitter.com/OliverMathenge/status/1580919005111406593). |  [Archive](https://web.archive.org/web/20221204102207/https://twitter.com/OliverMathenge/status/1580919005111406593)  | Saved to Disk
 
-Testing something here. Not sure why links are 404 Ing.f
+🤝 New CID appointed [Twitter](https://twitter.com/OliverMathenge/status/1581163242503536641)   |  [Archive](https://web.archive.org/web/2/https://twitter.com/OliverMathenge/status/1581163242503536641)  |  Saved to Disk
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+October 17, 2022 
 
+🤝 New appointments to Office of president [Twitter](https://twitter.com/OliverMathenge/status/1582034645935591428) | Saved to Disk
+
+October 26, 2022 
+
+🤝 Cabinet Secretaries Appointment [Twitter](https://twitter.com/OliverMathenge/status/1585315815012052993).  |  [Archive](https://web.archive.org/web/20221204103400/https://twitter.com/OliverMathenge/status/1585315815012052993)
+
+November 2, 2022 
+
+❓ List of principal secretaries nominated [Twitter](https://twitter.com/OliverMathenge/status/1587748306788261889) | [Archive](https://web.archive.org/web/2/https://twitter.com/OliverMathenge/status/1587748306788261889)
+
+🤝 Office of the president appointment [Twitter](https://twitter.com/HusseinMohamedg/status/1587824080966893570)  | [Archive](https://web.archive.org/web/20221204105743/https://twitter.com/HusseinMohamedg/status/1587824080966893570) | Saved to Disk
+
+November 20, 2022 
+
+✈️ Official visit to DRC and South Korea. 4 day Out.   [Twitter](https://twitter.com/OliverMathenge/status/1594266254520492032)  |  [Archive](https://web.archive.org/web/20221204095054/https://twitter.com/OliverMathenge/status/1594266254520492032)
+
+December 1, 2022 
+
+🤝 Principal Secretaries Appointed 
+
+December 2, 2022 
+
+❌ Suspension of IEBC 4 Commissioners.  [Twitter](https://twitter.com/HusseinMohamedg/status/1598602199520665604)  | [Archive](https://web.archive.org/web/20221204095850/https://twitter.com/HusseinMohamedg/status/1598602199520665604) | Saved to Disk
+
+🤝  Tribunal appointed  9 members
+
+🤝  Nairobi Rivers commission 9
+
+🤝  National Investment Council 12  
+
+🤝  Mary Wambui Mungai Appointed Chairperson of the board of communications Authority of Kenya, for 3 Years from 2nd Dec. ❌ Gilbert Kibe appointment is revoked. 
+
+December 3, 2022 
+
+✈️ 1 day visit to South Sudan. [Twitter](https://twitter.com/StateHouseKenya/status/1599068310582095872)  | [Archive](https://archive.ph/ncGA9) 
+
+[[2022-12-09]]
+Presided over the 18th Graduation ceremony at the Masinde Muliro University, Kakamega County.
+[Masinde Muliro University](geo:0.290482,34.764009702024)  [Twitter](https://twitter.com/WilliamsRuto/status/1601215230218219520)
+
+Held bilateral talks with Eritrea's President H.E. Isaias Afwerki in Asmara. [Asmara](geo:15.3389667,38.9326763) [Twitter](https://twitter.com/WilliamsRuto/status/1601268166180864001)
+
+[[2022-12-08]]
+Commissioned the Kakamega Airstrip, inspected the [Kakamega General ](geo:0.27365335,34.759278253486436) Kakamega County Teaching and Referral Hospital and shared our development Plan with the Western Kenya leadership at the Kakamega State Lodge, Kakamega County. [Twitter](https://twitter.com/WilliamsRuto/status/1600889795672436739) 
+
+[[2022-12-04]]
+With Deputy President and other leaders during an Interdenominational Prayer service at the University of Embu, Embu County. [University of Embu](geo:-0.5092213,37.456965201358926)  
