@@ -4,8 +4,6 @@ date: 2022-12-17
 enableToc: false
 ---
 
-✅  President William Ruto sworn in on September 13, 2022 . 
-
 October 6, 2022 
 
 ❓ Shortlisted candidates for Principal secretary positions. [Twitter](https://twitter.com/OliverMathenge/status/1578092841284296704/)  |  [Archive](https://archive.ph/zcOxU). |  [PSC](https://www.publicservice.go.ke/index.php/media-center/2/200-shortlisted-candidates-for-the-position-of-principal-secretary-in-the-public-service)  | Saved to Disk
