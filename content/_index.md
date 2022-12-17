@@ -2,9 +2,11 @@
 title: 🇰🇪 Ruto Government Tracker
 enableToc: false
 ---
+
+
 This is a page where we are trying to document significant activities of the Ruto Government. 
 
-[Permanent Secretaries](Permanent-Secretaries.md)
+[Permanent Secretaries](notes/Permanent-Secretaries.md)
 [Publicly listed locations the president has visited](notes/Locations.md)
 
 Spreadsheet on Ruto’s promises. [Link](https://docs.google.com/spreadsheets/d/12_sOeITaMcrbdH-21Lj29582soUnai1oW6fJ2nZziaQ/edit#gid=0)
