@@ -2,7 +2,8 @@
 title: Principal secretaries
 enableToc: false
 ---
-Partial List of shortlisted principal secretaries derived from [publicservice.go.ke](https://www.publicservice.go.ke/index.php/media-center/2/200-shortlisted-candidates-for-the-position-of-principal-secretary-in-the-public-service)
+---
+Shortlisted candidates for Principal secretary positions. [Twitter](https://twitter.com/OliverMathenge/status/1578092841284296704/)  |  [Archive](https://archive.ph/zcOxU). |  [PSC](https://www.publicservice.go.ke/index.php/media-center/2/200-shortlisted-candidates-for-the-position-of-principal-secretary-in-the-public-service)  | 
 
 | No. | Names                        | Gender | County          |
 | --- | ---------------------------- | ------ | --------------- |
