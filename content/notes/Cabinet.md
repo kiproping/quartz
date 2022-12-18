@@ -10,7 +10,7 @@ Cabinet Secretaries appointed by [William-Ruto](notes/William-Ruto.md), with eff
 
 | No. | Cabinet Secretary  | Ministry                                                                         |
 | --- | ------------------ | -------------------------------------------------------------------------------- |
-| 1.  | Musalia Mudavadi   | Prime Cabinet Secretary                                                          |
+| 1.  | [Musalia-Mudavadi](notes/Musalia-Mudavadi.md)   | Prime Cabinet Secretary                                                          |
 | 2.  | Kithure Kindiki    | Interior & National Administration                                               |
 | 3.  | Njuguna Ndung’u    | National Treasury & Planning                                                     |
 | 4.  | Alice Wahome       | Water, Sanitation & Irrigation                                                   |
@@ -40,6 +40,7 @@ Cabinet Secretaries appointed by [William-Ruto](notes/William-Ruto.md), with eff
 2. Mercy Kirui Wanjau to be Secretary to the Cabinet.
 
 ---
+[Official Source](https://www.president.go.ke/cabinet/)
 
 ![cabinet list | 400](_assets/New%20Cabinet%20Secretaries%20Oct%2026.jpg)
 

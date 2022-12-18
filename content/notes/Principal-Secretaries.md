@@ -62,6 +62,13 @@ enableToc: false
 | 51| Shadrack Mwangolo Mwadime.| Shiping and Maritime Affairs |
 
 > * Some [sources](https://victormatara.com/list-of-principal-secretaries-in-kenya-2020/) are saying this post is actually  for a Caroline Nyawira Murage, but she may have withdrawn from the nomination.
+ 
+---
+
+## Shortlisted 
+[Shortlisted Prinicipal Secretaries](notes/Shortlisted-Prinicipal-Secretaries.md)
+
+---
 
 #### Principal Secretary Salary In Kenya 
 
@@ -84,11 +91,4 @@ Below is a breakdown of the pay.
 
 
 ![Gazzete Notice | 600](_assets/New%20Principal%20secretaries%20Dec%201.jpg)
-
----
-
-## Shortlisted 
-[Shortlisted Prinicipal Secretaries](notes/Shortlisted-Prinicipal-Secretaries.md)
-
----
 

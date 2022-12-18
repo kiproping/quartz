@@ -1,6 +1,7 @@
 ---
 title: "William Ruto"
-date: 2022-12-17
+date: 2022-12-18
+enableToc: false
 ---
 ---
 # About 
@@ -19,15 +20,13 @@ He leads the [Executive-office](notes/Executive-office.md) and the [Cabinet](not
 People associated with the president. 
 
 1. Deputy President [Rigathi Gachagua](notes/Rigathi-Gachagua.md)
-2. Prime Cabinet Secretary Musalia Mudavadi
-3. [Farouk Kibet](notes/Farouk-Kibet.md)
+2. Prime Cabinet Secretary [Musalia Mudavadi](notes/Musalia-Mudavadi.md)
 
 ---
 # Social Media
 
 1. [Twitter](https://twitter.com/WilliamsRuto)
 2. [Facebook](https://www.facebook.com/williamsamoei)
-3. 
 
 ---
 # Public Locations Data
