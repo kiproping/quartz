@@ -15,7 +15,7 @@ Below are links to the public data collected on the William Ruto Government.
 1. [Major Government Actions](notes/Activities)
 2. [Cabinet](notes/Cabinet.md)
 3. [Member of Parliament](notes/Member-Of-Parliament.md)
-4. [Principal-Secretaries](notes/Principal-Secretaries.md)
+4. [Principal Secretaries](notes/Principal-Secretaries.md)
 
 ---
 ## Why
