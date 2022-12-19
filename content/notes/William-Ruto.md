@@ -29,9 +29,9 @@ People associated with the president.
 2. [Facebook](https://www.facebook.com/williamsamoei)
 
 ---
-# Public Locations Data
+# Public Global Travel Data
 
-1. [Publicly locations the president has visited](notes/Locations.md)
+1. [Public global travels](notes/Locations.md)
 
 ---
 
