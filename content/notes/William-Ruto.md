@@ -19,8 +19,8 @@ He leads the [Executive-office](notes/Executive-office.md) and the [Cabinet](not
 
 People associated with the president. 
 
-1. Deputy President [Rigathi Gachagua](notes/Rigathi-Gachagua.md)
-2. Prime Cabinet Secretary [Musalia Mudavadi](notes/Musalia-Mudavadi.md)
+1. Deputy President [Rigathi-Gachagua](notes/Rigathi-Gachagua.md)
+2. Prime Cabinet Secretary [Musalia-Mudavadi](notes/Musalia-Mudavadi.md)
 
 ---
 # Social Media
