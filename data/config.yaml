@@ -1,4 +1,4 @@
-name: Anonymous
+name: Kipropesque
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,9 +10,9 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
+enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: 
+GitHubLink: https://github.com/kiproping/quartz
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -23,6 +23,6 @@ page_title:
   "🇰🇪 Government Tracker"
 links:
   - link_name: Twitter
-    link: https://twitter.com/
+    link: https://twitter.com/kipropesque
   - link_name: Github
-    link: https://github.com/
+    link: https://github.com/kiproping
