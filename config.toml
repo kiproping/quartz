@@ -1,6 +1,6 @@
 baseURL = "https://datakwanza.com/"
 languageCode = "en-us"
-googleAnalytics = "G-J7YGWCLV6E"
+googleAnalytics = "G-3WKFY26R63"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [

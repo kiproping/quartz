@@ -30,7 +30,7 @@ Below are links to the public data collected on the William Ruto Government.
 ---
 ## About
 
-This is a website for the purpose of documenting activities of the current government of Kenya 🇰🇪. led by William Ruto.
+This is a website for the purpose of documenting activities of the current government of Kenya 🇰🇪 led by William Ruto.
 
 All data is from public sources. We have tried to provide a link source for each of the data catalogued here and also an archived link incase of link rot.
 
