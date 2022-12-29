@@ -20,8 +20,8 @@ Below is a list of appointments to various government offices. This list may not
 |7. | 🤝 Principal Secretaries Appointed | [Prinicipal Secretaries](notes/Shortlisted-Prinicipal-Secretaries.md)| December 1, 2022 | | |
 |8. | ❌ Suspension of IEBC 4 Commissioners | [IEBC](notes/IEBC.md)|December 2, 2022 | [Twitter](https://twitter.com/HusseinMohamedg/status/1598602199520665604) | [Archive](https://web.archive.org/web/20221204095850/https://twitter.com/HusseinMohamedg/status/1598602199520665604) |
 |9. | 🤝  Tribunal appointed 9 members | [IEBC](notes/IEBC.md) |December 2, 2022 | | |
-|10. | 🤝  Nairobi Rivers commission 9 | |December 2, 2022 | | |
-|12. | 🤝  National Investment Council 12 | |December 2, 2022 | | |
+|10. | 🤝  Nairobi Rivers commission 9 | [Nairobi River Commision](notes/Nairobi%20River%20Commision.md) |December 2, 2022 | | |
+|12. | 🤝  National Investment Council 12 | [National Investment Council](notes/National%20Investment%20Council.md) |December 2, 2022 |  | |
 |13. | Mary Wambui Mungai Appointed Chairperson of the board of communications Authority of Kenya, for 3 Years from 2nd Dec. ❌ Gilbert Kibe appointment is revoked. | |December 2, 2022 | | |
 
 
