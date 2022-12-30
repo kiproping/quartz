@@ -4,36 +4,23 @@ date: 2022-12-30
 enableToc: false
 ---
 
-GAZETTE NOTICE NO. 14892
+The president appoints the following to the National Investment Council
 
-THE INVESTMENT PROMOTION ACT
-(No. 6 of 2004)
-APPOINTMENT
+| Name                                 | Title  |
+| ------------------------------------ | ------ |
+| Ahmed Farah,                         | Member |
+| Karen Taylor,                        | Member |
+| Sarah Ochieng,                       | Member |
+| Eva Warigia,                         | Member |
+| Sheila Kyarisiima,                   | Member |
+| David Langat,                        | Member |
+| Sitoyo Lopokoiyit,  M-Pesa Africa MD | Member |
+| Paul Russo, KCB CEO                  | Member |
+| Tom Mulwa,                           | Member |
+| Humphrey Kariuki,                    | Member |
+| Peter Njonjo.  Twiga Food CEO        | Member |
+| Francis Njogu,                       | Member |
 
-IN EXERCISE of the powers conferred by section 26 (e) of the
-Investment Promotion Act, I, William Samoei Ruto, President of the
-Republic of Kenya and Commander-in-Chief of the Defence Forces,
-appoint-
+Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/2nd-December-2022.md)
 
-Ahmed Farah,
-Karen Taylor,
-Sarah Ochieng,
-Eva Warigia,
-Sheila Kyarisiima,
-David Langat,
-Sitoyo Lopokoiyit,
-Paul Russo,
-Tom Mulwa,
-Humphrey Kariuki,
-Peter Njonjo.
-Francis Njogu,
-
-as members of the National Investment Council, for a period of three
-(3) years, with effect from the the 30th November, 2022.
-
-Dated the 1st December, 2022.
-
-WILLIAM SAMOEI RUTO,
-President.
-
-PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI
+Source [Capitalfm.co.ke](https://www.capitalfm.co.ke/business/2022/12/president-ruto-appoints-12-member-national-investment-council/) [Archive](https://web.archive.org/web/20221208194558/https://www.capitalfm.co.ke/business/2022/12/president-ruto-appoints-12-member-national-investment-council/)

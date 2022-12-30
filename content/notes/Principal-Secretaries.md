@@ -66,7 +66,7 @@ enableToc: false
 ---
 
 ## Shortlisted 
-[Shortlisted Prinicipal Secretaries](notes/Shortlisted-Prinicipal-Secretaries.md)
+[Shortlisted Principal Secretaries](notes/Shortlisted-Principal-Secretaries.md)
 
 ---
 
