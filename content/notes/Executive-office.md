@@ -46,7 +46,7 @@ The following individuals were appointed to the Executive Office of the Presiden
 | Mr. Emmanuel Talam           | Press Secretary, Presidential Communication Service            |
 | Ms. Nieri Rugane             | Head of Communication Services, Office of the Deputy President |
 
-> Appointmend made by Felix K. Koskei Chief of Staff & Head of Public Service
+> Appointment made by Felix K. Koskei Chief of Staff & Head of Public Service
 > [Twitter](https://twitter.com/OliverMathenge/status/1582034645935591428)
 
 ---
