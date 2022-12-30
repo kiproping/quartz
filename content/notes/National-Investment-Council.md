@@ -1,4 +1,3 @@
-
 ---
 title: "National Investment Council"
 date: 2022-12-30

@@ -4,6 +4,8 @@ date: 2022-12-28
 enableToc: false
 ---
 
+[2nd-December-2022](notes/Gazette/2nd-December-2022.md)
+
 GAZETTE NOTICE NO. 14891
 
 WILLIAM SAMOEI RUTO,
