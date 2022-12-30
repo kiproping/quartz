@@ -4,7 +4,7 @@ date: 2022-12-17
 enableToc: false
 ---
 ---
-As set out in the Executive Order No. 1 of 2022 on the Organization of Government of Kenya, the Executive Office of the President comprises of the Office of the President, the Office of the Deputy President, and the Office of the Prime Cabinet Secretary.
+As set out in the Executive Order No. 1 of 2022 on the Organisation of Government of Kenya, the Executive Office of the President comprises of the Office of the President, the Office of the Deputy President, and the Office of the Prime Cabinet Secretary.
 
 ---
 ## Social Media
@@ -61,4 +61,5 @@ The following were appointed to the President's Council of Economic Advisors
 | Prof. Vincent N. Machuki  | Member        |
 
 ---
+
 

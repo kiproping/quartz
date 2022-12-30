@@ -5,13 +5,13 @@ enableToc: false
 ---
 ---
 ## About
-### Council of Governers
-The Council of County Governors (COG) is a non-partisan organization established under Section 19 of the Intergovernmental Relations Act (IGRA 2012). The Council of Governors comprises of the Governors of the forty-seven Counties.
+### Council of Governors
+The Council of County Governors (COG) is a non-partisan organisation established under Section 19 of the Intergovernmental Relations Act (IGRA 2012). The Council of Governors comprises of the Governors of the forty-seven Counties.
 [COG Webite](https://www.cog.go.ke/)
 
 ---
 
-List of counties and their Governers.
+List of counties and their Governors.
 | County          | Governer                | PARTY       |
 | --------------- | ----------------------- | ----------- |
 | Baringo         | Benjamin Cheboi         | UDA         |

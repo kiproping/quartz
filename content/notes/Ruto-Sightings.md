@@ -4,11 +4,6 @@ date: 2022-12-18
 enableToc: false
 ---
 
-
-
-
-
-
 # 2022-12-18
 
 Ruto in Qatar, source unknown. Widely shared on social media. 2022-12-18 

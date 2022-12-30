@@ -5,7 +5,7 @@ enableToc: true
 ---
 ## Kenya Kwanza
 
-> **Kenya Kwanza** is a Kenyan political alliance currently headed by [William Ruto](https://en.wikipedia.org/wiki/William_Ruto "William Ruto"). The political coalition currently forms the majority side in both the National Assembly as well as the Senate of Kenya. It was formed in the run-up to the 2022 Kenyan general elections by its three founding parties [UDA](https://en.wikipedia.org/wiki/United_Democratic_Alliance_(Kenya) "United Democratic Alliance (Kenya)"), [Amani National Congress](https://en.wikipedia.org/wiki/Amani_National_Congress "Amani National Congress") and [FORD–Kenya](https://en.wikipedia.org/wiki/Ford_Kenya "Ford Kenya") By 8 April 2022 eight other political parties had joined the alliance bringing the total number of constituent member-parties to 12. On 18 August 2022, a number of politicians from the [United Democratic Movement](https://en.wikipedia.org/wiki/United_Democratic_Movement_(Kenya) "United Democratic Movement (Kenya)") announced they would be joining the alliance.
+> **Kenya Kwanza** is a Kenyan political alliance currently headed by [William-Ruto](notes/William-Ruto.md). The political coalition currently forms the majority side in both the National Assembly as well as the Senate of Kenya. It was formed in the run-up to the 2022 Kenyan general elections by its three founding parties [UDA](https://en.wikipedia.org/wiki/United_Democratic_Alliance_(Kenya) "United Democratic Alliance (Kenya)"), [Amani National Congress](https://en.wikipedia.org/wiki/Amani_National_Congress "Amani National Congress") and [FORD–Kenya](https://en.wikipedia.org/wiki/Ford_Kenya "Ford Kenya") By 8 April 2022 eight other political parties had joined the alliance bringing the total number of constituent member-parties to 12. On 18 August 2022, a number of politicians from the [United Democratic Movement](https://en.wikipedia.org/wiki/United_Democratic_Movement_(Kenya) "United Democratic Movement (Kenya)") announced they would be joining the alliance.
 
 Source [Wikipedia](https://en.wikipedia.org/wiki/Kenya_Kwanza)
 
@@ -22,8 +22,8 @@ List of notable personalities in the Kenya Kwanza government.
 Below are links to the public data collected on the William Ruto Government. 
 
 1. [Major Government Actions](notes/Activities)
-2. [Cabinet](notes/Cabinet.md)
-3. [Governers](notes/Governers.md)
+2. [Cabinet Secretaries](notes/Cabinet.md)
+3. [Governors](notes/Governors.md)
 4. [Member of Parliament](notes/Members%20of%20Parliament.md)
 5. [Principal Secretaries](notes/Principal-Secretaries.md)
 
