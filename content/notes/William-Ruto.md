@@ -8,7 +8,7 @@ enableToc: false
 
 >**William Kipchirchir Samoei Arap Ruto** [CGH](https://en.wikipedia.org/wiki/Order_of_the_Golden_Heart_(Kenya) "Order of the Golden Heart (Kenya)") (born 21 December 1966) is a Kenyan politician who is serving as the fifth and current [president of Kenya](https://en.wikipedia.org/wiki/President_of_Kenya "President of Kenya") since 13 September 2022. Prior to becoming president, he served as the 11th [deputy president of Kenya](https://en.wikipedia.org/wiki/Deputy_President_of_Kenya "Deputy President of Kenya") from 2013 to 2022
 
-[Source](https://en.wikipedia.org/wiki/William_Ruto)
+[Wikipedia Source](https://en.wikipedia.org/wiki/William_Ruto)
 
 He leads the [Executive-office](notes/Executive-office.md) and the [Cabinet](notes/Cabinet.md)
 

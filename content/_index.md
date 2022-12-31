@@ -34,7 +34,7 @@ This is a website for the purpose of documenting activities of the current gover
 
 All data is from public sources. We have tried to provide a link source for each of the data catalogued here and also an archived link incase of link rot.
 
-We welcome contributions via Github pull requests. 
+We welcome contributions via Github pull requests. All content is in Markdown format. 
 
 ---
 

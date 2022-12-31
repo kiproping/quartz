@@ -7,6 +7,7 @@ enableToc: false
 ---
 ## Appointed 1st December, 2022.
 
+
 | No. | Names | Ministry    |
 | --- | ----- | --- |
 | 1| Teresia Mbaika Malokwe, | Devolution |
@@ -92,3 +93,4 @@ Below is a breakdown of the pay.
 
 ![Gazzete Notice | 600](_assets/New%20Principal%20secretaries%20Dec%201.jpg)
 
+[Gazette No. 256](notes/Gazette/Gazette%20No.%20256.md)

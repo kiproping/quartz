@@ -18,9 +18,9 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  This is a page to track public activities in the Kenyan Government of William Ruto
+  This is a page to track public activities in the Kenyan Government lead by William Ruto
 page_title:
-  "🇰🇪 Government Tracker"
+  "Kenyan Government Tracker"
 links:
   - link_name: Twitter
     link: https://twitter.com/kipropesque
