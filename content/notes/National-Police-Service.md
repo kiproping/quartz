@@ -23,5 +23,10 @@ Japhet Koome is  sworn in as the fourth Inspector General of the National Police
 Source [Citizen.digital](https://www.citizen.digital/news/japhet-koome-sworn-in-as-new-inspector-general-of-police-n309230) |  [Archive](https://web.archive.org/web/20221111070213/https://www.citizen.digital/news/japhet-koome-sworn-in-as-new-inspector-general-of-police-n309230) |
 
 ---
+#### 21st December 2022
+President William Ruto has appointed a 20-member task force to review police officers’ welfare in the country. The task force will be chaired by former Chief Justice David Maraga, deputised by Carole Kariuki.
+
+Source [Standard](https://www.standardmedia.co.ke/health/national/article/2001463721/ruto-appoints-ex-chief-justice-maraga-to-head-taskforce-on-police-welfare) | [Archive](https://archive.ph/1s2Uu) |
+[Gazette-No-281](notes/Gazette/Gazette-No-281.md)
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Gazette No.-256"
+title: "Gazette No. 256"
 date: 2022-12-31
 enableToc: false
 ---
