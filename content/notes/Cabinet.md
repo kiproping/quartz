@@ -44,7 +44,7 @@ Cabinet Secretaries appointed by [William-Ruto](notes/William-Ruto.md), with eff
 
 ![cabinet list | 400](_assets/New%20Cabinet%20Secretaries%20Oct%2026.jpg)
 
-[Gazette No. 224](notes/Gazette/Gazette%20No.%20224.md)
+[Gazette-No.224](notes/Gazette/Gazette-No.224.md)
 
 ---
 

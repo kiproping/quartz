@@ -1,3 +1,8 @@
+---
+title: "Gazette No. 213"
+date: 2022-12-31
+enableToc: false
+---
 ![](_assets/gazette/New%20CID%20oct%2015.jpg)
 SPECIAL ISSUE  
 THE KENYA GAZETTE  

@@ -23,5 +23,5 @@ President William Ruto has appointed High Court Judge Aggrey Muchelule to chair 
 Vice Chairperson Juliana Cherera, Justus Nyang’aya, Francis Wanderi and Irine Masit are hereby suspended from office with immediate effect.
 
 Star.co.ke Source [President appoints IEBC Tribunal](https://www.the-star.co.ke/news/2022-12-02-ruto-appoints-tribunal-to-try-4-iebc-commissioners/)
-Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/Gazette%20No.%20258.md)
+Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/Gazette-No.258.md)
 
