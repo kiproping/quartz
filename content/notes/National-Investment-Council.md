@@ -21,6 +21,6 @@ The president appoints the following to the National Investment Council
 | Peter Njonjo.  Twiga Food CEO        | Member |
 | Francis Njogu,                       | Member |
 
-Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/2nd-December-2022.md)
+Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/Gazette%20No.%20258.md)
 
 Source [Capitalfm.co.ke](https://www.capitalfm.co.ke/business/2022/12/president-ruto-appoints-12-member-national-investment-council/) [Archive](https://web.archive.org/web/20221208194558/https://www.capitalfm.co.ke/business/2022/12/president-ruto-appoints-12-member-national-investment-council/)

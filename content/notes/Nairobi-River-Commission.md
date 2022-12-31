@@ -18,7 +18,7 @@ On 2nd-December-2022,  [William-Ruto](notes/William-Ruto.md) creates Nairobi Riv
 | Duncan Ojwang (Dr.)                          | Representing Academia                                 |
 | Ferdinand Clifford N. W. AKA Babayao (Hon.). |                                                       |
 
-Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/2nd-December-2022.md)
+Link to Gazette notice. [2nd-December-2022 Gazette Notice](notes/Gazette/Gazette%20No.%20258.md)
 
 News Article [ Ruto hands Waititu plum job as Nairobi River Commissioner](https://www.the-star.co.ke/news/2022-12-02-ruto-hands-waititu-new-job-in-nairobi-rivers-commission/)
 

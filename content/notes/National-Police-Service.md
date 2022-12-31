@@ -20,7 +20,7 @@ The following were appointed to the National Police Service.
 #### 11th November 2022
 Japhet Koome is  sworn in as the fourth Inspector General of the National Police Service. IG Koome takes over the mantle from Mr Noor Gabow who has been holding the position in an acting capacity following the retirement of IG Hilary Mutyambai on health grounds as announced by President William Ruto on September 27, 2022.
 
-Source [Citizen.digital](https://www.citizen.digital/news/japhet-koome-sworn-in-as-new-inspector-general-of-police-n309230) [Archive](https://web.archive.org/web/20221111070213/https://www.citizen.digital/news/japhet-koome-sworn-in-as-new-inspector-general-of-police-n309230)
+Source [Citizen.digital](https://www.citizen.digital/news/japhet-koome-sworn-in-as-new-inspector-general-of-police-n309230) |  [Archive](https://web.archive.org/web/20221111070213/https://www.citizen.digital/news/japhet-koome-sworn-in-as-new-inspector-general-of-police-n309230) |
 
 ---
 
