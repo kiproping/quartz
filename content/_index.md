@@ -26,6 +26,7 @@ Below are links to the public data collected on the William Ruto Government.
 3. [Governors](notes/Governors.md)
 4. [Member of Parliament](notes/Members%20of%20Parliament.md)
 5. [Principal Secretaries](notes/Principal-Secretaries.md)
+6. [[notes/Kenya-Gazette]]
 
 ---
 ## About

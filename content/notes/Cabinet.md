@@ -20,7 +20,7 @@ Cabinet Secretaries appointed by [William-Ruto](notes/William-Ruto.md), with eff
 | 8.  | Aisha Jumwa        | Public Service, Gender, & Affirmative Action                                     |
 | 9.  | Moses Kuria        | Trade, Investment & Industry                                                     |
 | 10. | Soipan Tuy         | Environment & Forestry                                                           |
-| 11. | Kipchumba Murkomen | Roads, Transport, & Public Works                                                 |
+| 11. | [Kipchumba Murkomen](notes/Cabinet/Kipchumba-Murkomen) | Roads, Transport, & Public Works                                                 |
 | 12. | Penina Malonza     | Tourism, Wildlife, & Heritage                                                    |
 | 13. | Zacharia Njeru     | Lands, Housing, & Urban Develoment                                               |
 | 14. | Susan Nakhumicha   | Health                                                                           |
